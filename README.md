@@ -1,6 +1,6 @@
 # Minecraft Death Swap Plugin
 
-This plugin is a popular Minecraft game which you can play with 2 or more players.
+This plugin is for Minecraft which you can play with 2 or more players.
 
 ## Commands
 
